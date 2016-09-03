@@ -1,20 +1,4 @@
-name: Think.VR
-favicon: null
-layout_spectrum: 0.40973176108673215
 typography_spectrum: 0.05022173374891281
-title: Think VR - Experience and Explore Mobile VR
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,20 @@ color:
   lightness: 0.28344193659722805
   saturation: 0.35480262781493366
   rhythmicContrast: 0.29124879953451455
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.40973176108673215
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Think.VR
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Think VR  '
 purpose: []
